@@ -1,0 +1,254 @@
+,Star_names,Distance,Gravity
+0,Sun,1.5813e-05,274.2691614595739
+1,Sirius,8.6,196.971799550325
+2,Canopus,Out of Range,Out of Range
+3,Alpha Centauri,4.4,209.51116500384123
+4,Arcturus,37.0,Out of Range
+5,Vega,25.0,Out of Range
+6,Capella,43.0,Out of Range
+7,Rigel,Out of Range,Out of Range
+8,Procyon,11.4,Out of Range
+9,Betelgeuse,Out of Range,Out of Range
+10,Achernar,Out of Range,Out of Range
+11,Hadar,Out of Range,Out of Range
+12,Altair,17.0,152.37175636642996
+13,Acrux,Out of Range,Out of Range
+14,Aldebaran,65.0,Out of Range
+15,Antares,Out of Range,Out of Range
+16,Spica,Out of Range,Out of Range
+17,Pollux,34.0,Out of Range
+18,Fomalhaut,25.0,160.8368539423427
+19,Deneb,Out of Range,Out of Range
+20,Mimosa,Out of Range,Out of Range
+21,Regulus,77.0,Out of Range
+22,Adhara,Out of Range,Out of Range
+23,Shaula,Out of Range,Out of Range
+24,Castor,52.0,Out of Range
+25,Gacrux,88.0,Out of Range
+26,Bellatrix,Out of Range,Out of Range
+27,Elnath,Out of Range,Out of Range
+28,Miaplacidus,Out of Range,Out of Range
+29,Alnilam,Out of Range,Out of Range
+30,Gamma Velorum,Out of Range,Out of Range
+31,Alnair,Out of Range,Out of Range
+32,Alioth,81.0,Out of Range
+33,Alnitak,Out of Range,Out of Range
+34,Dubhe,Out of Range,Out of Range
+35,Mirfak,Out of Range,Out of Range
+36,Wezen,Out of Range,Out of Range
+37,Sargas,Out of Range,Out of Range
+38,Kaus Australis,Out of Range,Out of Range
+39,Avior,Out of Range,Out of Range
+40,Alkaid,Out of Range,Out of Range
+41,Menkalinan,81.0,Out of Range
+42,Atria,Out of Range,Out of Range
+43,Alhena,Out of Range,Out of Range
+44,Peacock,Out of Range,Out of Range
+45,Alsephina[2],80.0,Out of Range
+46,Mirzam,Out of Range,Out of Range
+47,Polaris,Out of Range,Out of Range
+48,Alphard,Out of Range,Out of Range
+49,Scheat,Out of Range,Out of Range
+50,Almaaz,Out of Range,Out of Range
+51,Rasalgethi,Out of Range,Out of Range
+52,Tau Ceti,11.9,269.2996711047934
+53,Delta Pavonis,19.92,182.61269753187165
+54,Ran,10.48,Out of Range
+55,V382 Carinae,Out of Range,Out of Range
+56,Eta Carinae,Out of Range,Out of Range
+57,Delta Cephei,Out of Range,Out of Range
+58,Mu Cephei,Out of Range,Out of Range
+59,Titawin,44.25,159.02202111653529
+60,Rho Cassiopeiae,Out of Range,Out of Range
+61,P Cygni,Out of Range,Out of Range
+62,VV Cephei,Out of Range,Out of Range
+63,61 Cygni,11.41,Out of Range
+64,R Doradus,Out of Range,Out of Range
+65,Polaris Australis,Out of Range,Out of Range
+66,R Coronae Borealis,Out of Range,Out of Range
+67,54 Piscium,36.1,235.9037604224493
+68,Mira,Out of Range,Out of Range
+69,RW Cephei,Out of Range,Out of Range
+70,Lacaille 8760,12.87,Out of Range
+71,V838 Monocerotis,Out of Range,Out of Range
+72,HD 140283,Out of Range,279.8664912852796
+73,II Pegasi,Out of Range,Out of Range
+74,VY Canis Majoris,Out of Range,Out of Range
+75,Pistol Star,Out of Range,Out of Range
+76,S Doradus,Out of Range,Out of Range
+77,UY Scuti,Out of Range,Out of Range
+78,Barnard's Star,5.98,Out of Range
+79,Luhman 16,6.52,Out of Range
+80,Proxima Centauri,4.25,Out of Range
+81,KIC 8462852,Out of Range,157.10819615734286
+82,R136a1,Out of Range,Out of Range
+83,Melnick 42,Out of Range,Out of Range
+84,WR 102,Out of Range,Out of Range
+85,VFTS 352,Out of Range,Out of Range
+86,YBP 1194,Out of Range,282.6363157577489
+87,Gliese 1214,47.5,Out of Range
+88,NML Cygni,Out of Range,Out of Range
+89,VB 10,18.72,Out of Range
+90,WOH G64,Out of Range,Out of Range
+91,TRAPPIST-1,39.6,Out of Range
+92,2MASS J0523-1403,40.3,Out of Range
+93,WISE 0855−0714,7.27,Out of Range
+94,Icarus,Out of Range,Out of Range
+95,SDSS J000013.54+255418.6 [de],46.1,Out of Range
+96,2MASS J00040288-6410358,Out of Range,177.29553270309606
+97,2MASS J00242463-0158201,37.7,Out of Range
+98,2MASS J00274197+0503417,Out of Range,Out of Range
+99,2MASSW J0030300-145033,87.2,Out of Range
+100,2MASS J00332386-1521309 [de],Out of Range,Out of Range
+101,2MASS J00345157+0523050,31.0,Out of Range
+102,2MASS 0036+1821,28.6,Out of Range
+103,2MASSW J0045214+163445,57.0,217.2787267524544
+104,WISEP J004701.06+680352.1 [fr],40.0,176.04104671648304
+105,2MASS J00501994-3322402 [de],34.0,Out of Range
+106,2MASS J00584253-0651239 [de],96.0,Out of Range
+107,2MASSI J0103320+193536,70.0,Out of Range
+108,SDSSp J010752.33+004156.1 [de],51.0,Out of Range
+109,2MASSI J0117474-340325 [de],Out of Range,188.93802326300383
+110,2MASS J01415823-4633574 [de],Out of Range,191.292368446984
+111,SDSS J015141.69+124429.6,70.0,Out of Range
+112,SDSS J020742.48+000056.2 [de],Out of Range,Out of Range
+113,2MASS J02103857-3015313,Out of Range,158.86484308965376
+114,2MASS J02340093-6442068,Out of Range,188.93802326300383
+115,2MASS J02411151-0326587 [de],Out of Range,336.7014134799189
+116,2MASS J02431371−2453298,35.0,Out of Range
+117,LP 771-21,53.0,Out of Range
+118,Teegarden's star,12.578,Out of Range
+119,2MASS J02535980+3206373,Out of Range,Out of Range
+120,WISE J0254+0223,24.0,Out of Range
+121,DEN 0255-4700,16.2,Out of Range
+122,2MASS J03185403-3421292 [de],45.0,Out of Range
+123,2MASS J03205965+1854233,47.0,Out of Range
+124,2MASS J03231002-4631237,Out of Range,206.9336226190817
+125,SDSS J032553.17+042540.1,59.0,Out of Range
+126,2MASS J03264225-2102057 [de],80.0,264.0615700747245
+127,2MASS J03284265+2302051 [de],98.0,Out of Range
+128,2MASS J03341218-4953322,27.0,Out of Range
+129,LP 944-20,20.9,Out of Range
+130,2MASP J0345432+254023,88.0,Out of Range
+131,Teide 1,Out of Range,Out of Range
+132,2MASS J03510004-0052452,48.0,Out of Range
+133,2MASS J03552337+1133437,29.8,284.5781383444831
+134,2MASS J04151954−0935066,18.6,Out of Range
+135,2MASS J04285096-2253227 [de],85.0,Out of Range
+136,2MASS J04351612-1606574,34.0,Out of Range
+137,2MASS J04362788-4114465,Out of Range,249.14464404913377
+138,2MASS J04390101-2353083 [de],29.5,Out of Range
+139,2MASS J04433764+0002040,82.0,172.14803783504922
+140,2MASS J04455387-3048204 [de],42.0,Out of Range
+141,2MASS J04510093-3402150 [de],69.0,Out of Range
+142,2MASS J05002100+0330501 [de],44.0,Out of Range
+143,2MASS J05012406-0010452 [de],64.0,273.3886765721481
+144,2MASS J05160945-0445499 [de],73.0,Out of Range
+145,2MASS J0523−1403,40.0,Out of Range
+146,SDSS J053951.99-005902.0,41.62,Out of Range
+147,LSR 0602+3910 [de],34.6,349.1718362013974
+148,2MASS J06085283-2753583,Out of Range,Out of Range
+149,2MASS J06244595-4521548 [de],39.0,Out of Range
+150,2MASS J06411840-4322329 [de],65.0,Out of Range
+151,DENIS-P J0652197-253450 [de],51.0,Out of Range
+152,2MASS J07075327-4900503,60.0,Out of Range
+153,UGPS J072227.51-054031.2,13.4,Out of Range
+154,2MASSI J0727182+171001 [de],29.6,Out of Range
+155,2MASS J07290002-3954043 [de],25.8,Out of Range
+156,SDSS J074201.41+205520.5 [de],49.0,Out of Range
+157,DENIS-P J0751164-253043 [de],55.0,Out of Range
+158,2MASS J07522390+1612157,60.0,Out of Range
+159,DENIS J081730.0-615520,16.1,Out of Range
+160,2MASS J08251968+2115521 [de],35.0,Out of Range
+161,SDSSp J083008.12+482847.4 [de],43.0,Out of Range
+162,LHS 2021,55.0,Out of Range
+163,SDSS J083048.80+012831.1 [de],77.0,Out of Range
+164,2MASSI J0835425-081923 [de],23.53,Out of Range
+165,2MASSI J0847287-153237 [de],43.0,Out of Range
+166,2MASS J08533619-0329321,27.6,Out of Range
+167,2MASSI J0859254-194926 [de],50.0,Out of Range
+168,2MASSI J0937347+293142,20.0,Out of Range
+169,2MASS 0939−2448,17.4,Out of Range
+170,2MASS J09490860-1545485 [de],59.0,Out of Range
+171,2MASS J10073369-4555147,46.0,Out of Range
+172,2MASSI J1010148-040649 [de],55.0,Out of Range
+173,2MASS J10224821+5825453 [de],60.0,336.7014134799189
+174,2MASSW J1036530-344138 [de],53.0,Out of Range
+175,2MASS J1047538+212423 [de],34.4,Out of Range
+176,DEN 1048-3956,13.15,Out of Range
+177,Luhman 16B,6.516,Out of Range
+178,Luhman 16A,6.516,Out of Range
+179,DENIS-P J1058.7−1548,49.0,Out of Range
+180,TWA 28,Out of Range,156.25218516002334
+181,Cha 110913-773444,Out of Range,Out of Range
+182,SDSS J111010.01+011613.1,63.0,Out of Range
+183,2MASS J11145133−2618235,18.2,Out of Range
+184,TWA 26,Out of Range,153.6721947060209
+185,2MASS J11544223-3400390 [de],Out of Range,Out of Range
+186,2MASSW J1155395-372735 [de],31.0,Out of Range
+187,2MASS J12074836-3900043,Out of Range,Out of Range
+188,2MASSI J1217110-031113 [de],36.0,Out of Range
+189,2M 1237+6526,45.6,Out of Range
+190,TWA 29,Out of Range,Out of Range
+191,SDSSp J125453.90-012247.4 [de],38.0,Out of Range
+192,Kelu-1A,61.0,Out of Range
+193,Kelu-1B,61.0,Out of Range
+194,2MASS J13204427+0409045,Out of Range,Out of Range
+195,SDSSp J132629.82-003831.5 [de],65.0,Out of Range
+196,SDSSp J134646.45-003150.4 [de],48.0,Out of Range
+197,2MASS J13595510-4034582,51.0,Out of Range
+198,ULAS J141623.94+134836.3,29.7,Out of Range
+199,SDSS J141659.78+500626.4 [de],Out of Range,Out of Range
+200,DENIS-P J142527.97-365023.4 [de],38.0,298.8070452617073
+201,LHS 2924,38.5,Out of Range
+202,2MASS J14392837+1929150,47.0,Out of Range
+203,LSPM J1440+1339,72.0,Out of Range
+204,2MASS J14482563+1031590 [de],47.0,Out of Range
+205,CFBDSIR 1458+10A,Out of Range,Out of Range
+206,CFBDSIR 1458+10B,Out of Range,Out of Range
+207,TVLM 513-46546,35.1,Out of Range
+208,2MASS 1503+2525,20.7,Out of Range
+209,CFBDS J150411+102717,71.0,Out of Range
+210,2MASSW J1506544+132106 [de],46.0,Out of Range
+211,2MASS 1507−1627,23.9,Out of Range
+212,TVLM 868-110639,53.0,Out of Range
+213,2MASSW J1515008+484742 [de],34.0,Out of Range
+214,2MASSI J1526140+204341 [de],67.0,Out of Range
+215,DENIS-P J153941.96-052042.4 [de],51.0,Out of Range
+216,2MASS J15462718-3325111 [de],37.0,Out of Range
+217,2MASSW J1552591+294849 [de],68.0,Out of Range
+218,2MASSW J1555157-095605 [de],44.0,Out of Range
+219,2MASS J16150413+1340079 [de],48.0,Out of Range
+220,SDSSp J162414.37+002915.6 [de],36.0,Out of Range
+221,2MASS J16262034+3925190 [de],Out of Range,Out of Range
+222,2MASSW J1632291+190441 [de],50.0,Out of Range
+223,WISEPA J164715.59+563208.2,28.0,Out of Range
+224,LSPM J1658+7027 [de],60.0,Out of Range
+225,2MASSI J1726000+153819,Out of Range,303.58098872536374
+226,SDSSp J175032.96+175903.9,90.0,Out of Range
+227,2MASS J18283572-4849046,39.0,Out of Range
+228,LSR J1835+3259,18.5,Out of Range
+229,2MASSW J1841086+311727,Out of Range,Out of Range
+230,2MASS J18432213+4040209,46.0,Out of Range
+231,2MASS J20004841-7523070,Out of Range,175.3653195207912
+232,SDSS J204749.61-071818.3,65.0,Out of Range
+233,2MASSI J2057540-025230,47.0,Out of Range
+234,2MASSI J2104149-103736,62.0,Out of Range
+235,PSO J318.5−22,80.0,Out of Range
+236,HB 2124-4228,Out of Range,Out of Range
+237,2MASS J21392676+0220226,32.1,Out of Range
+238,2MASS J21481628+4003593,26.3,Out of Range
+239,2MASSW J2206450-421721,93.0,308.3463412722992
+240,2MASSW J2208136+292121,Out of Range,336.7014134799189
+241,2MASSW J2224438-015852,38.0,Out of Range
+242,2MASS J22282889-4310262,35.0,Out of Range
+243,2MASS J22373255+3922398,64.0,Out of Range
+244,2MASSW J2244316+204343,56.0,178.78094402431125
+245,2MASS J23224684-3133231,56.0,307.96477299400283
+246,2MASS J23225299-6151275,Out of Range,166.71476840857292
+247,2MASS J23515044-2537367,67.0,Out of Range
+248,2MASSI J2356547-155310,74.0,Out of Range
+249,WISE 0410+1502,20.0,Out of Range
+250,WISE 0458+6434A,35.9,Out of Range
+251,WISE 0458+6434B,35.9,Out of Range
+252,WISE 1405+5534,25.3,Out of Range
